@@ -1,5 +1,14 @@
 # Annotation Validator Maven Plugin
 
+---
+## Deprecated
+
+_**This project has moved to be a sub-project of [Framework Libraries](https://github.com/CJSCommonPlatform/framework-libraries) and is located [here](https://github.com/CJSCommonPlatform/framework-libraries/blob/master/annotation-validator/README.md)**_
+
+_**Pull requests against this project have been disabled. Please contact one of the project owners for emergency bug fixes on this version**_
+
+---
+
 This project contains a plugin for validating annotations.
 Currently, it has two purposes (and they are optionally controlled):
 
